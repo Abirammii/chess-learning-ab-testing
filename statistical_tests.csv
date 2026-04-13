@@ -1,0 +1,8 @@
+metric,mean_A,mean_B,diff_B_minus_A,normality,t_stat,p_ttest,u_stat,p_mannwhitney,cohens_d,effect_size,significant
+Rating Improvement (pts),36.812,62.8,25.988,Yes,-15.7047,0.0,61238.5,0.0,-0.9942,Large,Yes ✓
+Improvement %,2.783,4.764,1.981,No,-14.7231,0.0,63840.0,0.0,-0.9321,Large,Yes ✓
+Engagement Score,17.561,19.027,1.465,Yes,-7.2596,0.0,91607.5,0.0,-0.4596,Small,Yes ✓
+Avg Session (min),21.87,30.992,9.122,Yes,-18.1403,0.0,52606.5,0.0,-1.1484,Large,Yes ✓
+Win Rate,0.538,0.522,-0.016,Yes,2.0417,0.0414,133497.0,0.0628,0.1293,Negligible,No ✗
+Days Active,18.14,16.022,-2.118,No,7.9134,0.0,158790.0,0.0,0.501,Medium,Yes ✓
+Sessions Count,13.896,12.306,-1.59,No,6.8216,0.0,155108.0,0.0,0.4319,Small,Yes ✓
